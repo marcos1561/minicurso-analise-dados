@@ -26,7 +26,7 @@ Clone o repositório:
 
 # Conteúdo
 - Como utilizar o `Numpy` de forma eficiente e prática, abordando conceitos como __vectorization__, __broadcasting__, etc.
-- Como utilizar o pandas para analisar dados. Como exemplo, dados climáticos reais são analisados, utilizando a API da [Open-Meteo](https://open-meteo.com/).
+- Como utilizar o `Pandas` para analisar dados. Como exemplo, dados climáticos reais são analisados, utilizando a API da [Open-Meteo](https://open-meteo.com/).
 - Visualização em tempo real com o `Matplotlib`.
 - Simulações computacionais para a geração de dados, através de um exemplo de dinâmica de partículas.
 - Como construir um projeto escalável, reutilizável e flexível.
