@@ -1,0 +1,6 @@
+**_pycache__**
+.ipynb_*
+venv
+*.csv
+
+exemplos/particulas/*.png
