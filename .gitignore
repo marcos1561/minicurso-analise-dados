@@ -1,6 +1,8 @@
 **_pycache__**
 .ipynb_*
-venv
 *.csv
+.owncloud*
+.sync_journal*
 
+venv
 exemplos/particulas/*.png
